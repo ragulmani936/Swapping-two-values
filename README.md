@@ -27,7 +27,8 @@ n2=int(input())
 n1,n2=n2,n1
 print("Swapped values are:",n1, n2)
 ~~~
-
+## OUTPUT:
+![output](https://github.com/ragulmani936/Swapping-two-values/blob/main/Screenshot%20(12).png?raw=true)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
